@@ -1,4 +1,4 @@
-🚗 İkinci El Araç Fiyat Tahmin Sistemi
+#🚗 İkinci El Araç Fiyat Tahmin Sistemi
 Bu proje, ikinci el araç piyasasındaki verileri Web Scraping yöntemleriyle toplayan, temizleyen, makine öğrenmesi algoritmalarıyla eğiten ve kullanıcılara araç özelliklerine (marka, model, yıl, km vb.) göre en doğru fiyat tahminini sunmak amacıyla geliştirilmiştir bir Web Arayüzü sunan uçtan uca bir veri bilimi projesidir.
 
 🌟 Temel Özellikler
