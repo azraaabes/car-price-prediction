@@ -12,6 +12,7 @@ Git LFS Entegrasyonu: Büyük boyutlu model dosyalarının (.pkl) versiyon kontr
  ```bash
 git clone [https://github.com/azraaabes/car-price-prediction.git](https://github.com/azraaabes/car-price-prediction.git)
 cd car-price-prediction
+```
 2. Sanal Ortamı Oluşturun:
 ```bash
 python -m venv venv
